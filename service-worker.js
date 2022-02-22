@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/atomic/precache-manifest.071b1fbfe05d45d377fc1c0b8f63a232.js"
+  "/atomic/precache-manifest.560bb73fdaaff6c9f3abd33a153bab9a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "atomic"});
